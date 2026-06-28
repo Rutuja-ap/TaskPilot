@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📋 TaskTracker — MERN Stack Task Management App
 
 > A full-stack task management web application built with MongoDB, Express.js, React.js, and Node.js.
@@ -236,3 +237,6 @@ tasktracker/
 ## 👤 Author
 
 Built as an internship assignment demonstrating full-stack MERN development.
+=======
+# TaskPilot
+>>>>>>> 1d2932aa9389b5e8b12878ce6093f46373a0539b
